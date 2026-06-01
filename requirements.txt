@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+torch
+gymnasium
+icu-sepsis>=2.0.0  # requires Python >=3.10
+stable-baselines3
